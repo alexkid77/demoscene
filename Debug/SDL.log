@@ -1,7 +1,7 @@
-﻿  SDL.cpp
-c:\users\alex\source\repos\sdl\sdl\sdl.cpp(109): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
-c:\users\alex\source\repos\sdl\sdl\sdl.cpp(110): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
-c:\users\alex\source\repos\sdl\sdl\sdl.cpp(125): warning C4244: 'argumento': conversión de 'float' a 'long'; posible pérdida de datos
-c:\users\alex\source\repos\sdl\sdl\sdl.cpp(126): warning C4244: 'argumento': conversión de 'float' a 'long'; posible pérdida de datos
-c:\users\alex\source\repos\sdl\sdl\sdl.cpp(129): warning C4305: '+=': truncamiento de 'double' a 'float'
+﻿  CRotozoom.cpp
+c:\users\alex\source\repos\sdl\sdl\crotozoom.cpp(28): warning C4244: 'inicializando': conversión de 'long double' a 'float'; posible pérdida de datos
+c:\users\alex\source\repos\sdl\sdl\crotozoom.cpp(61): warning C4244: 'inicializando': conversión de 'long double' a 'int'; posible pérdida de datos
+c:\users\alex\source\repos\sdl\sdl\crotozoom.cpp(62): warning C4244: 'inicializando': conversión de 'long double' a 'int'; posible pérdida de datos
+c:\users\alex\source\repos\sdl\sdl\crotozoom.cpp(64): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\alex\source\repos\sdl\sdl\crotozoom.cpp(65): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
   SDL.vcxproj -> C:\Users\alex\source\repos\SDL\Debug\SDL.exe

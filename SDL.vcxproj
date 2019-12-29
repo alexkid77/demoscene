@@ -155,11 +155,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CLensEffect.h" />
+    <ClInclude Include="CRotozoom.h" />
     <ClInclude Include="IEffect.h" />
     <ClInclude Include="utils.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CLensEffect.cpp" />
+    <ClCompile Include="CRotozoom.cpp" />
     <ClCompile Include="IEffect.cpp" />
     <ClCompile Include="SDL.cpp" />
     <ClCompile Include="utils.cpp" />

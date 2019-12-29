@@ -4,7 +4,7 @@
 #include "SDL_image.h"
 #include <string>
 #include <stdio.h>
-#include <math.h>
+#include <cmath>
 
 
 typedef struct
